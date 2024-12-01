@@ -1,0 +1,23 @@
+{
+    "name": "unireq",
+    "description": "Lightweight HTTP client for Node.js with support for REST APIs and custom requests.",
+    "version": "1.0.0",
+    "main": "main.js",
+    "author": "Mlad (https://github.com/eolthar)",
+    "license": "MIT (Modified)",
+    "keywords": [
+        "http",
+        "https",
+        "http-client",
+        "fetch",
+        "request",
+        "api-client",
+        "rest-api",
+        "nodejs",
+        "http-requests",
+        "json",
+        "networking",
+        "lightweight",
+        "async"
+    ]
+}
