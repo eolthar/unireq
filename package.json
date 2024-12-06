@@ -1,6 +1,6 @@
 {
     "name": "unireq",
-    "description": "Lightweight HTTP client for Node.js with support for REST APIs and custom requests.",
+    "description": "Легкий HTTP-клиент для Node.js с поддержкой REST API и пользовательских запросов.",
     "version": "1.0.0",
     "main": "main.js",
     "author": "Mlad (https://github.com/eolthar)",
